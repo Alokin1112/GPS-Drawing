@@ -1,0 +1,22 @@
+{
+  "name": "03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gps",
+    "database",
+    "js",
+    "data",
+    "send"
+  ],
+  "author": "Dawid Szczepankowski",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
